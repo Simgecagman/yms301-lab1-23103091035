@@ -37,15 +37,6 @@ Argüman verilmezse program çökmez, kullanım bilgisini gösterir:
 Kullanım: python main.py <Kullanici_Adi>
 ```
 
-## 1. Hafta Canlı Kodlama Defteri
-
-[`hafta1/canli_kodlama_hafta1.ipynb`](hafta1/canli_kodlama_hafta1.ipynb) dosyasında 1. haftanın
-uygulama defteri ve 7 Lab Alıştırması'nın çözümleri yer alıyor. Bu hafta Python'da girintinin blok
-belirlemesini, dinamik tiplemeyi, `is None` kalıbını, f-string ve slicing kullanımını, tip ipuçlu ve
-docstring'li fonksiyonlar yazmayı ve mutable default argument tuzağını öğrendim. Mini proje olarak
-bir parolanın istatistiklerini `dict` olarak döndüren `parola_istatistikleri()` fonksiyonunu yazdım
-ve hata ayıklama görevlerinde bir `SyntaxError` ile sessiz bir mantık hatasını düzelttim.
-
 ## Örnek Çıktı
 
 ```
